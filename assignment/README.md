@@ -9,10 +9,10 @@ This directory contains "Statistics :SPSS and Excel implementation (8th edition)
 Personal methods, not entirely normative, welcome criticism and correction
 <br>
 ## Contact联系方式
-**QQ**:2974748349
+**QQ**：2974748349
 <br>
-**Wechat**:z2974748349
+**Wechat**：z2974748349
 <br>
-**Instagram**:e1iaschang
+**Instagram**：e1iaschang
 <br>
-**E-Mail**:2974748349@qq.com、eliaschang321@gmail.com
+**E-Mail**：2974748349@qq.com、eliaschang321@gmail.com
