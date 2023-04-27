@@ -8,7 +8,7 @@ This directory contains "Statistics :SPSS and Excel implementation (8th edition)
 <br>
 Personal methods, not entirely normative, welcome criticism and correction
 <br>
-## Contact联系方式
+## Contact&nbsp;&nbsp;联系方式
 **QQ**：2974748349
 <br>
 **Wechat**：z2974748349
